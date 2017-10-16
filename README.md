@@ -1,24 +1,8 @@
-# README
+# Recipe Box
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple CRUD app built on rails
 
-Things you may want to cover:
+## Functionality
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Save recipes, with ingredients and steps
+2. Only users can CRUD recipes
